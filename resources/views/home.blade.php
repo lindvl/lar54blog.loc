@@ -15,6 +15,12 @@
 				<div class="col-md-4">
 			<h4 class="text-center">31 дек 2018</h4>
 		</div>
+						<div class="col-md-8">
+			<h2 class="text-center">удаленная</h2>
+		</div>
+				<div class="col-md-4">
+			<h4 class="text-center">1 янв 2019</h4>
+		</div>
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
                 <div class="panel-heading">Dashboard</div>
